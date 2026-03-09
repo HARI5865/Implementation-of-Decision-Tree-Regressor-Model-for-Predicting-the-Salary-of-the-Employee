@@ -71,8 +71,8 @@ dt=DecisionTreeRegressor()
 
 dt.fit(x_train,y_train)
 y_pred=dt.predict(x_test)
-print("Name: Arsha Jith S J")
-print("Reg No: 212224220010")
+print("Name: HARI N")
+print("Reg No: 212224040102")
 print(y_pred)
 
 from sklearn import metrics
